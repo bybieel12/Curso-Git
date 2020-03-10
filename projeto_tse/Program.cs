@@ -8,6 +8,7 @@ namespace projeto_tse
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Como você esta hoje ? ");
         }
     }
 }
